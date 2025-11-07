@@ -7,6 +7,6 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 ## Author
 
 - Name - MKS
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/manishcode44)
+- Frontend Mentor - [View Profile](https://www.frontendmentor.io/profile/manishcode44)
 
 
